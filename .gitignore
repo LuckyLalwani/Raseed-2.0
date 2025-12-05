@@ -1,0 +1,40 @@
+# Environment variables (IMPORTANT - protects your API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Data files (your receipts)
+data/
+*.jsonl
+*.json
+
+# Image files (receipts may contain sensitive info)
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.gif
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+temp/
+tmp/
