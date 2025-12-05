@@ -112,7 +112,7 @@
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/raseed-expense-tracker.git
+git clone https://github.com/LuckyLalwani/raseed-expense-tracker.git
 cd raseed-expense-tracker
 ```
 
@@ -460,8 +460,8 @@ Special thanks to the open-source community! 🌟
 
 ## 📞 Contact & Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/YOUR_USERNAME/raseed-expense-tracker/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/YOUR_USERNAME/raseed-expense-tracker/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/LuckyLalwani/raseed-expense-tracker/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/LuckyLalwani/raseed-expense-tracker/discussions)
 - 📧 **Email**: lalwanilucky333@gmail.com
 - 🐦 **LinkedIn**: [@Lucky Lalwani](https://www.linkedin.com/in/lucky-lalwani-410b42256/)
 
