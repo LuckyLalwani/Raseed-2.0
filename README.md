@@ -460,8 +460,8 @@ Special thanks to the open-source community! 🌟
 
 ## 📞 Contact & Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/LuckyLalwani/raseed-expense-tracker/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/LuckyLalwani/raseed-expense-tracker/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/LuckyLalwani/raseed-2.0/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/LuckyLalwani/raseed-2.0/discussions)
 - 📧 **Email**: lalwanilucky333@gmail.com
 - 🐦 **LinkedIn**: [@Lucky Lalwani](https://www.linkedin.com/in/lucky-lalwani-410b42256/)
 
