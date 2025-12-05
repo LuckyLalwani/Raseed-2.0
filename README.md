@@ -281,7 +281,7 @@ raseed-expense-tracker/
 
 ---
 
-## 🎨 Screenshots
+## 🎨 Different Tabs
 
 <details>
 <summary><b>📊 Dashboard View</b></summary>
